@@ -1,2 +1,1 @@
-hello this is shanmukh how 
-wq!X
+echo "hello this is shanmukh how"
